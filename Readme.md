@@ -1,0 +1,1 @@
+Olá, projeto em desenvolvimento onde usarei uma IA para resumir vídeos shorts do youtube.
